@@ -1,0 +1,6 @@
+streamlit>=1.35,<2
+pypdf>=5,<7
+scikit-learn>=1.4,<2
+openai>=1.40,<3
+python-dotenv>=1,<2
+pytest>=8,<10
